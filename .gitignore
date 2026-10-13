@@ -1,0 +1,9 @@
+# saved models
+*.keras
+*.h5
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+desktop.ini
